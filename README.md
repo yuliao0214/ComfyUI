@@ -236,7 +236,7 @@ RDNA 3 (RX 7000 series):
 
 ```pip install --pre torch torchvision torchaudio --index-url https://rocm.nightlies.amd.com/v2/gfx110X-dgpu/```
 
-RDNA 3.5 (Strix halo/Ryzen AI Max+ 365):
+RDNA 3.5 (Strix halo/Ryzen AI Max+ 395):
 
 ```pip install --pre torch torchvision torchaudio --index-url https://rocm.nightlies.amd.com/v2/gfx1151/```
 
